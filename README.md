@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ### Hola 👋, mi nombre es Desireé Salazar
 Desarrolladora web y amante de los deportes, me encanta aprender cosas nuevas diariamente y ponerlas en practica, y desarrollar aplicaciones web es una de ellas, me encanta crear aplicaciones rápidas, fáciles de usar y intentando siempre aplicar buenas practicas.

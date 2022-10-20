@@ -9,8 +9,8 @@ Desarrolladora web y amante de los deportes, me encanta aprender cosas nuevas di
 
 Habilidades: **PHP / JAVA / JS / HTML / CSS / BOOTSTRAP 5 / WORDPRESS**
 
-- 🔭 Estoy trabajando en **Ironchip** 
-- 🌱 Estoy aprendiendo **Symfony, Laravel, Go, MongoDB, Docker** 
+- 🔭 Estoy buscando empleo actualmente 
+- 🌱 Estoy aprendiendo **Laravel, Docker y Symfony** 
 - 📫 Donde encontrarme: [LinkedIn](https://www.linkedin.com/in/desire%C3%A9-salazar-169992124/) 
 - ⚡ Dato curioso: *Soy Licenciada en Bioquímica, con 8 años de experiencia*
 
